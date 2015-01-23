@@ -11,10 +11,6 @@ h1, h2, h3 {
   color: #79756f;
 }
 
-b {
-  color: #79756f;
-  font-weight: normal;
-}
 
 ol {
   list-style: none;
@@ -27,5 +23,25 @@ a {
 
 a:hover {
   color: #fe3333;
+}
+
+b {
+  color: #79756f;
+  font-weight: normal;
+}
+
+blockquote {
+  font-family: georgia, cursive;
+  font-size: 1.25rem;
+  font-style: italic;
+
+}
+
+.quote {
+  color: #79756f;
+  font-size: 2rem;
+}
+
+cite {
 
 }
