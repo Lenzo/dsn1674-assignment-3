@@ -2,8 +2,18 @@ html {
   background-color: #dbd6cf;
 }
 
+body {
+  font-family: verdana;
+}
+
 h1, h2, h3 {
   font-family: 'Bevan', cursive;
+  color: #79756f;
+}
+
+b {
+  color: #79756f;
+  font-weight: normal;
 }
 
 ol {
@@ -12,5 +22,10 @@ ol {
 }
 
 a {
-  
+  color: #713837;
+}
+
+a:hover {
+  color: #fe3333;
+
 }
