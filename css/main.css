@@ -34,14 +34,27 @@ blockquote {
   font-family: georgia, cursive;
   font-size: 1.25rem;
   font-style: italic;
+  text-aligned:
 
 }
 
 .quote {
   color: #79756f;
   font-size: 2rem;
+  text-align: center
 }
 
 cite {
+  color: #79756f;
+  font-size: .75rem;
+  text-align: right;
+  line-height: 5;
+}
 
+ul {
+  list-style: lower-roman;
+}
+
+figcaption {
+  padding: 8;
 }
