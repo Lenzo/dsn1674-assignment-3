@@ -34,15 +34,16 @@ blockquote {
   font-family: georgia, cursive;
   font-size: 1.25rem;
   font-style: italic;
-  text-aligned:
+  text-align: center;
 
 }
+
 
 .quote {
   color: #79756f;
   font-size: 2rem;
-  text-align: center
 }
+
 
 cite {
   color: #79756f;
@@ -51,10 +52,16 @@ cite {
   line-height: 5;
 }
 
+
 ul {
   list-style: lower-roman;
 }
 
 figcaption {
   padding: 8;
+}
+
+
+.bold {
+  font-weight: bold;
 }
